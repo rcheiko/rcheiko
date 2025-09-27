@@ -1,7 +1,5 @@
 <h2>Hi, I'm Shokker ( Romain )</h1>
-<p>A passionate Full stack developer currently at Liqwid Labs</p>
+<p>Software Engineer at Liqwid Labs & Swade</p>
 
-<p align="left">Contact :</p>
-<p align="left">
-<a href="https://linkedin.com/in/romain-cheiko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="romain-cheiko" height="30" width="40" /></a>
-</p>
+<p>Discord: Shokker</p>
+<p>[Linkedin](https://www.linkedin.com/in/romain-cheiko/)</p>
